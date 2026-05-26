@@ -5,14 +5,17 @@ across multiple provisioning phases, including unboxing, disk health
 verification, and volume initialization.
 
 
+
 ## Evidence
 
 ### Box Contents
-![Box Contents](Box Contents.jpg)
+![Box Contents](box-contents.jpg)
 
 ### NAS Front
-![NAS Front](NAS Front.jpg)
+![NAS Front](nas-front.jpg)
 
 ### NAS Rear
-![NAS Rear](NAS rear.jpg)
+![NAS Rear](nas-rear.jpg)
+
+
 
