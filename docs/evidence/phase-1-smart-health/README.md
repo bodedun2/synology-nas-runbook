@@ -6,7 +6,11 @@ Actions:
 - SMART status Normal for all disks
 
 Evidence:
-smart-health-baseline.png
+
+### Evidence
+
+![SMART Health Baseline](smart-health-baseline.png)
+
 
 
 Screenshot captured prior to RAID and volume creation.
